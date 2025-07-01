@@ -16,7 +16,7 @@ Mandatory Channel Membership: To begin interacting with the bot, users are requi
 
 Secure, Multi-Step Registration: Users complete a guided registration process, providing essential details like their phone number, full name, and banking information (card number and IBAN/Sheba) needed for settlements.
 
-Point Earning System:
+#### Point Earning System:
 
 Users earn 1 point for every new, unique member they add to the target groups.
 
@@ -24,7 +24,7 @@ The system intelligently prevents duplicate point allocation for members who hav
 
 Automatic Point-to-Code Conversion: For every 100 points accumulated, a cash prize code is automatically generated and assigned to the user.
 
-User Dashboard:
+#### User Dashboard:
 
 🏆 My Points: View total accumulated points and the number of prize codes received.
 
@@ -32,19 +32,19 @@ User Dashboard:
 
 ✏️ Edit Information: Users can modify their registration details at any time.
 
-Settlement Requests:
+#### Settlement Requests:
 
 💰 From the main menu, users can request a settlement for any of their unsettled prize codes.
 
 These requests are queued and sent to the admin panel for review and approval.
 
-Online Support:
+#### Online Support:
 
 📞 Users can create support tickets directly through the bot to communicate with administrators.
 
 Admin replies are delivered back to the user via the bot.
 
-Comprehensive Guide:
+#### Comprehensive Guide:
 
 ❓ A detailed help section explains every aspect of how to use the bot.
 
