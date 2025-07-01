@@ -1,0 +1,17 @@
+2025-07-02 00:59:40,894 - root - INFO - CheckStatBot:66 - Initialized new database with admin user and 20 test codes (2000 points).
+2025-07-02 00:59:41,927 - apscheduler.scheduler - INFO - base:507 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-02 00:59:41,927 - root - INFO - CheckStatBot:2060 - Periodic group check job scheduled.
+2025-07-02 00:59:41,930 - root - INFO - CheckStatBot:2192 - Bot starting to poll...
+2025-07-02 00:59:55,436 - root - INFO - CheckStatBot:262 - Running initial group data update after startup...
+2025-07-02 00:59:55,436 - root - INFO - CheckStatBot:208 - update_groups_list_simplified: Using bot ID 7529259479.
+2025-07-02 00:59:55,436 - root - INFO - CheckStatBot:217 - update_groups_list_simplified: No groups found in DB to process.
+2025-07-02 00:59:55,439 - root - INFO - CheckStatBot:264 - Initial group data update complete: 0 groups in DB processed.
+2025-07-02 00:59:55,991 - apscheduler.scheduler - INFO - base:1090 - Added job "periodic_group_check" to job store "default"
+2025-07-02 00:59:55,991 - apscheduler.scheduler - INFO - base:214 - Scheduler started
+2025-07-02 00:59:55,992 - telegram.ext.Application - INFO - _application:630 - Application started
+2025-07-02 00:59:57,141 - root - ERROR - CheckStatBot:284 - Error checking channel membership for user 1247032424 in channel -1001122067647: Chat not found
+2025-07-02 01:00:03,784 - root - INFO - CheckStatBot:208 - update_groups_list_simplified: Using bot ID 7529259479.
+2025-07-02 01:00:03,785 - root - INFO - CheckStatBot:217 - update_groups_list_simplified: No groups found in DB to process.
+2025-07-02 01:00:13,773 - telegram.ext.Application - INFO - _application:664 - Application is stopping. This might take a moment.
+2025-07-02 01:00:13,773 - apscheduler.scheduler - INFO - base:245 - Scheduler has been shut down
+2025-07-02 01:00:13,784 - telegram.ext.Application - INFO - _application:700 - Application.stop() complete
